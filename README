@@ -1,6 +1,7 @@
 # Zend Framework Facebook Library
-* Author:  Erick Rojas (erick@erickthered.com)
-* version 3.1.1
+* Authors: Erick Rojas (erick@erickthered.com)
+*          Emidio Bianco (emidiobia@gmail.com) 
+* version 3.2.0
 * license: Apache 
 
 The purpose of the Zend Framework Facebook Library is to provide a simple (and standarized) way
